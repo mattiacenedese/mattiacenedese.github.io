@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper our on Nature Communications"
+title:  "Paper out on Nature Communications"
 date:   2022-02-15 10:00:00 +0200
 categories: paper
 ---
