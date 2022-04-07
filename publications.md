@@ -21,6 +21,8 @@ permalink: /publications/
 
 2. [Smart Periodic Structures: from Wave Propagation to Electromechanical Design](https://www.politesi.polimi.it/handle/10589/131354), Master thesis, Politecnico di Milano.
 
+2. [IntegraGreen: integration of additive manufacturing and conventional processes in view of green and sustainable development](https://www.asp-poli.it/projects/integragreen-integration-of-additive-manufacturing-and-machining-processes-in-view-of-green-and-sustainable-development/), Final project, Alta Scuola Politecnica.
+
 
 
 

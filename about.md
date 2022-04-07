@@ -87,7 +87,7 @@ Postdoctoral Fellow
 
 Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
-Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications.md/))
+Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications/))
 
 Several teaching, supervision and peer-review experiences
 
@@ -106,8 +106,3 @@ Tribomechadynamics Lab, Department of Mechanical Engineering, William Marsh Rice
 
 [Prof. Dr. Francesco Braghin](https://www.mecc.polimi.it/us/research/faculty/faculty/prof-francesco-braghin/)  
 Dynamics and Vibrations Research Lab, Department of Mechanical Engineering, Politecnico di Milano, Italy
-
-
-
-
-
