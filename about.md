@@ -52,7 +52,7 @@ Postdoctoral Fellow
         Jun. 2021 
     </span> <br>
     ETH Zurich <br>
-    Thesis title: <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/528996">A Geometric Approach to Nonlinear Mechanical Vibrations: from Analytic to Data-driven Methods</a>  <br>
+    Supervisor: Prof. George Haller, Co-supervisor: Prof. Melih Eriten (UW-Madison)
 </p>
 
 <p style="text-align:left;">
@@ -71,9 +71,7 @@ Postdoctoral Fellow
     </span> <br>
     Politenico di Milano <br>
     Final score: 110 <em>cum laude</em> / 110 <br>
-    Thesis title: <a href="https://www.politesi.polimi.it/handle/10589/131354">Smart periodic structures: from wave propagation to electromechanical design</a> <br>
-    Supervisor: Prof. Dr. Francesco Braghin <br>
-    Co-supervisor: Prof. Dr. Laura Gastaldi, Politecnico di Torino
+    Supervisor: Prof. Dr. Francesco Braghin, Co-supervisor: Prof. Dr. Laura Gastaldi (Politecnico di Torino)
 </p>
 
 <p style="text-align:left;">
@@ -85,11 +83,11 @@ Postdoctoral Fellow
     Final score: 110 <em>cum laude</em> / 110
 </p> 
 
-### Selected Awards and Activities
+### Selected awards and activities
 
 Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
-Two research papers selected as *Featured* in peer-review journals (see publication list)
+Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications.md))
 
 Several teaching, supervision and peer-review experiences
 
