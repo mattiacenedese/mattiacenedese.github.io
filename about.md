@@ -87,7 +87,7 @@ Postdoctoral Fellow
 
 Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
-Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications.md))
+Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications.md/))
 
 Several teaching, supervision and peer-review experiences
 
