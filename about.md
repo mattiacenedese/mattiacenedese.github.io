@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: About
 permalink: /about/
 image: 
@@ -30,5 +30,5 @@ Supervisor: [Prof. George Haller](https://georgehaller.com)
 Co-supervisor: [Prof. Melih Eriten](http://friction.engr.wisc.edu), UW-Madison
 
 ### Selected Awards and Activities
-Winner of the [*2022 SWICCOMAS Best Thesis Award*](https://swiccomas.ch/awards/) for the doctoral thesis
+Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
