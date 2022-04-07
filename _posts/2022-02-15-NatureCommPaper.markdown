@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper out on Nature Communications"
 date:   2022-02-15 10:00:00 +0200
-categories: paper
+categories: research
 ---
 
 Our dynamics-based machine learning algorithm for nonlinear reduced models from data has just appeared in *Nature Communications*.
@@ -11,7 +11,7 @@ M. Cenedese, J. Axås, B. Bäuerlein, K. Avila and G. Haller. Data-driven modeli
 
 This research is also featured in this ETH Zurich [press release](https://ethz.ch/en/news-and-events/eth-news/news/2022/02/predicting-complex-dynamics-from-data.html). 
 
-*Nature Communications* selects our work as a *Feature Article* in the area of [Applied physics and mathematics] (https://www.nature.com/collections/hjhbgijcei).
+*Nature Communications* selects our work as a *Feature Article* in the area of [Applied physics and mathematics](https://www.nature.com/collections/hjhbgijcei).
 
 
 

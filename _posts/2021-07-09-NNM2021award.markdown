@@ -2,7 +2,7 @@
 layout: post
 title:  "Awarded 1st prize at NNM2021 Poster Competition"
 date:   2021-07-09 16:30:01 +0200
-categories: awards
+categories: award
 ---
 
 I was awarded the 1st prize in the poster competition of the *8th International Conference on Nonlinear Vibrations, Localizattion and Energy Transfer* [NNM2021](https://nnm2021.ch/). 
