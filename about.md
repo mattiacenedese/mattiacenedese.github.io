@@ -28,6 +28,6 @@ Ph.D. Nonlinear Dynamics [Sep. 2017 - Jun. 2021]{style="float:right"}
 ETH Zurich
 Mentor: [George Haller](https://georgehaller.com)
 
-## Selected Awards and Activities
+### Selected Awards and Activities
 Winner of the [*2022 SWICCOMAS Best Thesis Award*](https://swiccomas.ch/awards/) for the doctoral thesis
 
