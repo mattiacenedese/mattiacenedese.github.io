@@ -21,12 +21,13 @@ Chair in Nonlinea Dynamics
 ### Academic appointments
 Postdoctoral fellow [Oct. 2021 - ]{style="float:right"}
 ETH Zurich
-Mentor: [George Haller](https://georgehaller.com)
+Mentor: [Prof. George Haller](https://georgehaller.com)
 
 ### Education
 Ph.D. Nonlinear Dynamics [Sep. 2017 - Jun. 2021]{style="float:right"}
 ETH Zurich
-Mentor: [George Haller](https://georgehaller.com)
+Supervisor: [Prof. George Haller](https://georgehaller.com) 
+Co-supervisor: [Prof. Melih Eriten](http://friction.engr.wisc.edu), UW-Madison
 
 ### Selected Awards and Activities
 Winner of the [*2022 SWICCOMAS Best Thesis Award*](https://swiccomas.ch/awards/) for the doctoral thesis
