@@ -13,7 +13,7 @@ actions:
 
 Mattia Cenedese  
 Postdoctoral Fellow  
-[Chair in Nonlinea Dynamics ](https://georgehaller.com)  
+[Chair in Nonlinear Dynamics ](https://georgehaller.com)  
 [Institute for Mechanical Systems](https://imes.ethz.ch/)  
 [Department of Mechanical and Process Engineering](https://mavt.ethz.ch/)  
 [ETH Zurich](https://ethz.ch/en.html)  
@@ -47,7 +47,7 @@ Postdoctoral Fellow
 ### Education
 
 <p style="text-align:left;">
-    Ph.D. Nonlinear Dynamics
+    Ph.D. in Nonlinear Dynamics
     <span style="float:right;">
         Jun. 2021 
     </span> <br>
