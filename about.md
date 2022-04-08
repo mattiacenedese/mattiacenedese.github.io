@@ -17,6 +17,7 @@ Postdoctoral Fellow
 [Institute for Mechanical Systems](https://imes.ethz.ch/)  
 [Department of Mechanical and Process Engineering](https://mavt.ethz.ch/)  
 [ETH Zurich](https://ethz.ch/en.html)  
+Leonhardstrasse 21, 8092, Zürich, Switzerland
 
 ### Academic appointments
 
@@ -52,7 +53,7 @@ Postdoctoral Fellow
         Jun. 2021 
     </span> <br>
     ETH Zurich <br>
-    Supervisor: Prof. George Haller, Co-supervisor: Prof. Melih Eriten (UW-Madison)
+    Supervisor: Prof. George Haller, co-supervisor: Prof. Melih Eriten (UW-Madison)
 </p>
 
 <p style="text-align:left;">
@@ -71,7 +72,7 @@ Postdoctoral Fellow
     </span> <br>
     Politenico di Milano <br>
     Final score: 110 <em>cum laude</em> / 110 <br>
-    Supervisor: Prof. Dr. Francesco Braghin, Co-supervisor: Prof. Dr. Laura Gastaldi (Politecnico di Torino)
+    Supervisor: Prof. Dr. Francesco Braghin, co-supervisor: Prof. Dr. Laura Gastaldi (Politecnico di Torino)
 </p>
 
 <p style="text-align:left;">
@@ -88,8 +89,6 @@ Postdoctoral Fellow
 Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
 Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications/))
-
-Several teaching, supervision and peer-review experiences
 
 Member of [*Alta Scuola Politecnica*](https://www.asp-poli.it), XI Cycle
 
