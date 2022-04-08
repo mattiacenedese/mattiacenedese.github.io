@@ -25,6 +25,6 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://mattiacenedese.github.io"
 twitter_username: mattiacenedese
 github_username: mattiacenedese
-logo: /assets/images/logo.png
+logo: /assets/images/logo.svg
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
