@@ -22,7 +22,7 @@ permalink: /publications/
 Selected by the editors as *Feature Article* in the area of [Applied physics and mathematics](https://www.nature.com/collections/hjhbgijcei).<br>
 In the press: [ETH Zurich News](https://ethz.ch/en/news-and-events/eth-news/news/2022/02/predicting-complex-dynamics-from-data.html), [World Economic Forum](https://www.weforum.org/agenda/2022/03/predicting-complex-dynamics-from-data/).
 
-2.  M. Jin, G. Kosova, **M. Cenedese**, W. Chen, D. Jana, A. Singh, M. R. W. Brake, C. W. Schwingshackl, S. Nagarajaiah, K. J. Moore & J. Noël, ***Measurement and identification of the nonlinear dynamics of a jointed structure using full-field data; Part II - Nonlinear system identification***, [*Mechanical Systems and Signal Processing*](https://doi.org/10.1016/j.ymssp.2021.108402) 166, 108402 (2022) [<span style="font-variant:small-caps;">doi</span>: 10.1016/j.ymssp.2021.108402.
+2.  M. Jin, G. Kosova, **M. Cenedese**, W. Chen, D. Jana, A. Singh, M. R. W. Brake, C. W. Schwingshackl, S. Nagarajaiah, K. J. Moore & J. Noël, ***Measurement and identification of the nonlinear dynamics of a jointed structure using full-field data; Part II - Nonlinear system identification***, [*Mechanical Systems and Signal Processing*](https://doi.org/10.1016/j.ymssp.2021.108402) 166, 108402 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1016/j.ymssp.2021.108402.
 <a style='margin-left:.5em' href="/assets/publications/2022MSSPJinKosovaCenedese_etal.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 <a href="https://github.com/mattiacenedese/BRBtesting">Data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
 
@@ -30,7 +30,7 @@ In the press: [ETH Zurich News](https://ethz.ch/en/news-and-events/eth-news/news
 <a style='margin-left:.5em' href="/assets/publications/2022MSSPChenJanaSingh_etal.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 2. **M. Cenedese**, E. Belloni & F. Braghin, ***Interaction of Bragg scattering bandgaps and local resonators in mono-coupled periodic structures***, [*Journal of Applied Physics*](https://aip.scitation.org/doi/full/10.1063/5.0038438) 129 124501 (2021) <span style="font-variant:small-caps;">doi</span>: 10.1063/5.0038438. 
-<a style='margin-left:.5em' href="/assets/publications/2021JAPCenedeseBelloniBraghin.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
+<a style='margin-left:.5em' href="/assets/publications/2021JAPCenedeseBelloniBraghin.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a><br>
 Featured on the [journal cover page](https://aip.scitation.org/action/showLargeCover?doi=10.1063%2Fjap.2021.129.issue-12).
 
 2. **M. Cenedese** & G. Haller, ***Stability of forced-damped response in mechanical systems from a Melnikov analysis***, [*Chaos: an Interdisciplinary Journal of Nonlinear Science*](https://aip.scitation.org/doi/full/10.1063/5.0012480) 30, 083103 (2020) <span style="font-variant:small-caps;">doi</span>: 10.1063/5.0012480.
