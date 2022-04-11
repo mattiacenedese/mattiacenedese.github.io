@@ -20,6 +20,14 @@
     <li>{% include icon-linkedin.html username=site.linkedin_username label='Linkedin' %}</li>
   {% endif %}
 
+  {% if site.googlescholar_username %}
+  <li>{% include icon-googlescholar.html username=site.googlescholar_username label='Google Scholar' %}</li>
+  {% endif %}
+
+  {% if site.researchgate_username %}
+  <li>{% include icon-researchgate.html username=site.researchgate_username label='ResearchGate' %}</li>
+  {% endif %}
+
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
       <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
