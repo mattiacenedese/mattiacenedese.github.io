@@ -45,7 +45,8 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 ## Submitted manuscripts
 
-1. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*arXiv:2110.01929*](http://arxiv.org/abs/2110.01929) (2022).
+1. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*arXiv:2203.13098*](http://arxiv.org/abs/2203.13098) (2022).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2203.13098.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 
 ## Theses
