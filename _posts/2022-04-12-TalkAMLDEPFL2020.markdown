@@ -6,7 +6,7 @@ categories: talk
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hfpG20ngHFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CJ7gPAPAnh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 This talk ***Modeling and Prediction of Non-Linearizable Phenomena via Dynamics-Based Machine Learning*** featured in the [*AI & Engineering*](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-engineering) track of the [*Applied Machine Learning Days*](https://www.appliedmldays.org) held at [EPFL 2022](https://appliedmldays.org/events/amld-epfl-2022). 
