@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Journal articles
 
-1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena) Volume 55, Number 5, June 2022.
+1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022.
 
 2. **M. Cenedese**, J. Axås, H. Yang, M. Eriten & G. Haller, ***Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems***, *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* (2022) in press. Preprint available on [*arXiv:2110.01929*](http://arxiv.org/abs/2110.01929).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2110.01929.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
