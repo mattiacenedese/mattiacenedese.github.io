@@ -13,7 +13,7 @@ permalink: /publications/
 
 1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022.
 
-2. **M. Cenedese**, J. Axås, H. Yang, M. Eriten & G. Haller, ***Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems***, *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* (2022) in press. Preprint available on [*arXiv:2110.01929*](http://arxiv.org/abs/2110.01929).
+2. **M. Cenedese**, J. Axås, H. Yang, M. Eriten & G. Haller, ***Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems***, [*Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*](https://doi.org/10.1098/rsta.2021.0194) 380, 20210194 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1098/rsta.2021.0194.
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2110.01929.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 <a href="https://github.com/mattiacenedese/SSMLearn">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
 
@@ -31,7 +31,7 @@ In the press: [ETH Zurich News](https://ethz.ch/en/news-and-events/eth-news/news
 2. W. Chen, D. Jana, A. Singh, M. Jin, **M. Cenedese**, G. Kosova, M. R. W. Brake, C. W. Schwingshackl, S. Nagarajaiah, K. J. Moore & J. Noël, ***Measurement and identification of the nonlinear dynamics of a jointed structure using full-field data; Part I – Measurement of nonlinear dynamics***, [*Mechanical Systems and Signal Processing*](https://doi.org/10.1016/j.ymssp.2021.108401) 166, 108401 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1016/j.ymssp.2021.108401.
 <a style='margin-left:.5em' href="/assets/publications/2022MSSPChenJanaSingh_etal.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
-2. **M. Cenedese**, E. Belloni & F. Braghin, ***Interaction of Bragg scattering bandgaps and local resonators in mono-coupled periodic structures***, [*Journal of Applied Physics*](https://aip.scitation.org/doi/full/10.1063/5.0038438) 129 124501 (2021) <span style="font-variant:small-caps;">doi</span>: 10.1063/5.0038438. 
+2. **M. Cenedese**, E. Belloni & F. Braghin, ***Interaction of Bragg scattering bandgaps and local resonators in mono-coupled periodic structures***, [*Journal of Applied Physics*](https://aip.scitation.org/doi/full/10.1063/5.0038438) 129, 124501 (2021) <span style="font-variant:small-caps;">doi</span>: 10.1063/5.0038438. 
 <a style='margin-left:.5em' href="/assets/publications/2021JAPCenedeseBelloniBraghin.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a><br>
 Featured on the [journal cover page](https://aip.scitation.org/action/showLargeCover?doi=10.1063%2Fjap.2021.129.issue-12).
 
