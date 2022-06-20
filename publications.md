@@ -11,10 +11,10 @@ permalink: /publications/
 
 ## Journal articles
 
-1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022.
+1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022. <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/HallerJainCenedese_dynamics_based_machine_learning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 2. **M. Cenedese**, J. Axås, H. Yang, M. Eriten & G. Haller, ***Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems***, [*Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*](https://doi.org/10.1098/rsta.2021.0194) 380, 20210194 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1098/rsta.2021.0194.
-<a style='margin-left:.5em' href="https://arxiv.org/pdf/2110.01929.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+<a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/Cenedeseetal_DataDrivenNonlinearModelReduction.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 <a href="https://github.com/mattiacenedese/SSMLearn">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
 
 2. **M. Cenedese**, J. Axås, B. Bäuerlein, K. Avila & G. Haller. ***Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds***, [*Nature Communications*](https://doi.org/10.1038/s41467-022-28518-y) 13, 872 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1038/s41467-022-28518-y.
