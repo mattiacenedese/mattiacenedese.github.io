@@ -11,7 +11,10 @@ permalink: /publications/
 
 ## Journal articles
 
-1. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022. <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/HallerJainCenedese_dynamics_based_machine_learning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+1. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*Physical Review Fluids*](http://arxiv.org/abs/2203.13098), in press (2022).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2203.13098.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+
+2. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022. <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/HallerJainCenedese_dynamics_based_machine_learning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 2. **M. Cenedese**, J. Axås, H. Yang, M. Eriten & G. Haller, ***Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems***, [*Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*](https://doi.org/10.1098/rsta.2021.0194) 380, 20210194 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1098/rsta.2021.0194.
 <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/Cenedeseetal_DataDrivenNonlinearModelReduction.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
@@ -49,8 +52,6 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 1. J. Axås, **M. Cenedese** & G. Haller, ***Fast data-driven model reduction for nonlinear dynamical systems***, [*arXiv:2204.14169*](http://arxiv.org/abs/2204.14169) (2022).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2204.14169.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
-2. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*arXiv:2203.13098*](http://arxiv.org/abs/2203.13098) (2022).
-<a style='margin-left:.5em' href="https://arxiv.org/pdf/2203.13098.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 ## Theses
 
