@@ -49,7 +49,10 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 ## Submitted manuscripts
 
-1. J. Axås, **M. Cenedese** & G. Haller, ***Fast data-driven model reduction for nonlinear dynamical systems***, [*arXiv:2204.14169*](http://arxiv.org/abs/2204.14169) (2022).
+1. J.I. Alora, **M. Cenedese**, E. Schmerling, G. Haller & M. Pavone, ***Data-driven spectral submanifold reduction for nonlinear optimal control of high-dimensional robots***, [*arXiv:2209.05712*](http://arxiv.org/abs/2209.05712) (2022).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2209.05712.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+
+2. J. Axås, **M. Cenedese** & G. Haller, ***Fast data-driven model reduction for nonlinear dynamical systems***, [*arXiv:2204.14169*](http://arxiv.org/abs/2204.14169) (2022).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2204.14169.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 ## Theses
