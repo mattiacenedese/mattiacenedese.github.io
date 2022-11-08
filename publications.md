@@ -11,7 +11,9 @@ permalink: /publications/
 
 ## Journal articles
 
-1. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*Physical Review Fluids*](https://doi.org/10.1103/PhysRevFluids.7.L082402) 7, L082402 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1103/PhysRevFluids.7.L082402. <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/dynamicsbasedmachinelearning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://journals.aps.org/prfluids/supplemental/10.1103/PhysRevFluids.7.L082402/supplemental_couette.pdf">Supplemental material<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/mattiacenedese/SSMLearn">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
+1. J. Axås, **M. Cenedese** & G. Haller, ***Fast data-driven model reduction for nonlinear dynamical systems***, [*Nonlinear Dynamics*](https://doi.org/10.1007/s11071-022-08014-0) 7, L082402 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1007/s11071-022-08014-0. <a style='margin-left:.5em' href="https://link.springer.com/content/pdf/10.1007/s11071-022-08014-0.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/mattiacenedese/SSMLearn/tree/main/fastSSM">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
+
+2. B. Kaszás, **M. Cenedese** & G. Haller, ***Dynamics-based machine learning of transitions in Couette flow***, [*Physical Review Fluids*](https://doi.org/10.1103/PhysRevFluids.7.L082402) 7, L082402 (2022) <span style="font-variant:small-caps;">doi</span>: 10.1103/PhysRevFluids.7.L082402. <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/dynamicsbasedmachinelearning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://journals.aps.org/prfluids/supplemental/10.1103/PhysRevFluids.7.L082402/supplemental_couette.pdf">Supplemental material<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/mattiacenedese/SSMLearn">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}</span></a>
 
 2. G. Haller, S. Jain & **M. Cenedese**, ***Dynamics-based machine learning for nonlinearizable phenomena***, [*SIAM News*](https://sinews.siam.org/Details-Page/dynamics-based-machine-learning-for-nonlinearizable-phenomena), Volume 55, Number 5, June 2022 <a style='margin-left:.5em' href="http://www.georgehaller.com/reprints/HallerJainCenedese_dynamics_based_machine_learning.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
 
@@ -51,9 +53,6 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 1. J.I. Alora, **M. Cenedese**, E. Schmerling, G. Haller & M. Pavone, ***Data-driven spectral submanifold reduction for nonlinear optimal control of high-dimensional robots***, [*arXiv:2209.05712*](http://arxiv.org/abs/2209.05712) (2022).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2209.05712.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
-
-2. J. Axås, **M. Cenedese** & G. Haller, ***Fast data-driven model reduction for nonlinear dynamical systems***, [*arXiv:2204.14169*](http://arxiv.org/abs/2204.14169) (2022).
-<a style='margin-left:.5em' href="https://arxiv.org/pdf/2204.14169.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 ## Theses
 
