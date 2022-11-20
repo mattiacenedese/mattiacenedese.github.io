@@ -86,7 +86,9 @@ Leonhardstrasse 21, 8092, Zürich, Switzerland
 
 ### Selected awards and activities
 
-Winner of the [2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
+[ETH Zurich Silver Medal 2022](https://mavt.ethz.ch/news-and-events/d-mavt-news/2022/11/herausragende-doktorarbeiten-2022.html) for oustanding doctoral thesis
+
+[2022 SWICCOMAS Best Thesis Award](https://swiccomas.ch/awards/) for the doctoral thesis
 
 Two research papers selected as *Featured* in peer-review journals (see [publication list](/publications/))
 
