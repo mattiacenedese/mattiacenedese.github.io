@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Silver Medal of ETH Zürich for Outstanding Doctoral Thesis"
+title:  "Silver Medal of ETH Zurich for Outstanding Doctoral Thesis"
 date:   2022-11-16 12:00:03 +0200
 categories: award
 ---
