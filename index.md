@@ -4,7 +4,7 @@
 
 layout: home
 alt_title: "Mattia Cenedese"
-sub_title: "Postdoctoral Fellow, ETH Zurich"
+sub_title: ""
 image: /assets/images/cover.jpg
 introduction: |
   Researching on complex nonlinear dynamical systems, with a focus on data-driven methods for the extraction of predictive reduced order models via machine learning.

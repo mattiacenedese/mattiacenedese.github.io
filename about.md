@@ -12,19 +12,29 @@ actions:
 <img src="/assets/images/mattiacenedese.jpg" width="350">
 
 Mattia Cenedese  
-Postdoctoral Fellow  
+Research Affiliate  
 [Chair in Nonlinear Dynamics ](https://georgehaller.com)  
 [Institute for Mechanical Systems](https://imes.ethz.ch/)  
 [Department of Mechanical and Process Engineering](https://mavt.ethz.ch/)  
 [ETH Zurich](https://ethz.ch/en.html)  
-Leonhardstrasse 21, 8092, Zürich, Switzerland
+
+
+### Work experience
+
+<p style="text-align:left;">
+    AI & Compliance Model Validation Quantitative Analyst
+    <span style="float:right;">
+        Dec. 2022 -
+    </span> <br>
+    UBS AG
+</p>
 
 ### Academic appointments
 
 <p style="text-align:left;">
     Postdoctoral Fellow
     <span style="float:right;">
-        Oct. 2021 -
+        Oct. 2021 - Nov. 2022
     </span> <br>
     ETH Zurich
 </p>
@@ -94,7 +104,7 @@ Two research papers selected as *Featured* in peer-review journals (see [publica
 
 Member of [*Alta Scuola Politecnica*](https://www.asp-poli.it), XI Cycle
 
-### References
+### Academic references
 
 [Prof. Dr. George Haller](http://georgehaller.com)  
 Chair in Nonlinear Dynamics, Institute for Mechanical Systems, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland
