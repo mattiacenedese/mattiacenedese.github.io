@@ -48,11 +48,22 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 2. E.A. Flores Parra, A. Bergamini, B. Lossouarn, B. Van Damme, **M. Cenedese** & P. Ermanni, ***Bandgap control with local and interconnected LC piezoelectric shunts***, [*Applied Physics Letters*](https://aip.scitation.org/doi/full/10.1063/1.4994779) 111, 111902 (2017) <span style="font-variant:small-caps;">doi</span>: 10.1063/1.4994779. 
 <a style='margin-left:.5em' href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/185265/Bangap.pdf?sequence=1&isAllowed=y#page=3">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
-
 ## Submitted manuscripts
 
-1. J.I. Alora, **M. Cenedese**, E. Schmerling, G. Haller & M. Pavone, ***Data-driven spectral submanifold reduction for nonlinear optimal control of high-dimensional robots***, [*arXiv:2209.05712*](http://arxiv.org/abs/2209.05712) (2022).
-<a style='margin-left:.5em' href="https://arxiv.org/pdf/2209.05712.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+1. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-Assisted Non-Intrusive Model Reduction for Forced Nonlinear Finite Elements Models***, [*arXiv:2311.17865*](http://arxiv.org/abs/2311.17865) (2023).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2311.17865.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
+
+2. J.I. Alora, L.A. Pablon, J. Köhler, **M. Cenedese**, E. Schmerling, M.E. Zeilinger, G. Haller & M. Pavone, ***Robust Nonlinear Reduced-Order Model Predictive Control***, [*arXiv:2309.05746*](http://arxiv.org/abs/2309.05746) (2023).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2309.05746.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+
+
+## Peer-reviewed conference proceedings
+
+1. J.I. Alora, **M. Cenedese**, E. Schmerling, G. Haller & M. Pavone, ***Practical Deployment of Spectral Submanifold Reduction for Optimal Control of High-Dimensional Systems***, [IFAC-PapersOnLine](https://www.sciencedirect.com/science/article/pii/S2405896323021432) 56, 2, 4074-4081 (2023) <span style="font-variant:small-caps;">doi</span>: 10.1016/j.ifacol.2023.10.1734.
+<a style='margin-left:.5em' href="https://stanfordasl.github.io/wp-content/papercite-data/pdf/Alora.Cenedese.IFAC23.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
+
+2. J.I. Alora, **M. Cenedese**, E. Schmerling, G. Haller & M. Pavone, ***Data-driven spectral submanifold reduction for nonlinear optimal control of high-dimensional robots***, [2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom](https://ieeexplore.ieee.org/document/10160418) 2627-2633 (2023) <span style="font-variant:small-caps;">doi</span>: 10.1109/ICRA48891.2023.10160418.
+<a style='margin-left:.5em' href="https://www.georgehaller.com/reprints/highdimensionalrobots.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
 
 ## Theses
 
