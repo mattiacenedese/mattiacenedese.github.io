@@ -11,3 +11,8 @@ Reduced-order modeling is among the leading theoretical and computational challe
 ## Prediction of forced responses in nonlinear mechanical systems
 
 Frequency responses of forced-damped multi-degree-of-freedom mechanical systems with weak forcing and damping can be studied with appropriate perturbation approaches. In this project, the goal is to develop exact mathematical tools (e.g., Melnikov functions) that are able to predict the existence and the stability of forced responses from a well-defined unperturbed system configuration, as, for example, the conservative, energy-preserving limit, which is characterized by conservative nonlinear normal modes. The outcome of this research is expected to help numerical simulations and also to gain understanding for devising improved experimental testing for nonlinear structural systems.
+
+<iframe
+  src="assets/images/radar_plot.html"
+  style="width:100%; height:300px;"
+></iframe>
