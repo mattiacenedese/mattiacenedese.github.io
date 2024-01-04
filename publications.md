@@ -53,7 +53,7 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 1. L. Bettini, **M. Cenedese** & G. Haller, ***Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems***, [*arXiv:2312.14927*](http://arxiv.org/abs/2312.14927) (2023).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2312.14927.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
 
-2.**M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-Assisted Non-Intrusive Model Reduction for Forced Nonlinear Finite Elements Models***, [*arXiv:2311.17865*](http://arxiv.org/abs/2311.17865) (2023).
+2. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-Assisted Non-Intrusive Model Reduction for Forced Nonlinear Finite Elements Models***, [*arXiv:2311.17865*](http://arxiv.org/abs/2311.17865) (2023).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2311.17865.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
 
 2. J.I. Alora, L.A. Pablon, J. Köhler, **M. Cenedese**, E. Schmerling, M.E. Zeilinger, G. Haller & M. Pavone, ***Robust Nonlinear Reduced-Order Model Predictive Control***, [*arXiv:2309.05746*](http://arxiv.org/abs/2309.05746) (2023).
