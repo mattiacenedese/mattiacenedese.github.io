@@ -50,7 +50,10 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 ## Submitted manuscripts
 
-1. L. Bettini, **M. Cenedese** & G. Haller, ***Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems***, [*arXiv:2312.14927*](http://arxiv.org/abs/2312.14927) (2023).
+1. Z. Xu, **M. Cenedese**, G. Berti, B. Kaszás, F. Coletti & G. Haller, ***Reduced-order Modeling of the Dynamics of an Inverted Flag from Experimental Data***, [*arXiv:2402.08504*](http://arxiv.org/abs/2402.08504) (2024).
+<a style='margin-left:.5em' href="https://arxiv.org/pdf/2402.08504.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
+
+2. L. Bettini, **M. Cenedese** & G. Haller, ***Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems***, [*arXiv:2312.14927*](http://arxiv.org/abs/2312.14927) (2023).
 <a style='margin-left:.5em' href="https://arxiv.org/pdf/2312.14927.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a>
 
 2. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-Assisted Non-Intrusive Model Reduction for Forced Nonlinear Finite Elements Models***, [*arXiv:2311.17865*](http://arxiv.org/abs/2311.17865) (2023).
