@@ -19,11 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Mattia Cenedese
-email: mattiacenedese15@gmai.com
+email: mattiacenedese15@gmail.com
 description: "Mattia Cenedese's Personal Website"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://mattiacenedese.github.io"
-twitter_username: mattiacenedese
 github_username: mattiacenedese
 linkedin_username: mattiacenedese
 researchgate_username: Mattia-Cenedese
