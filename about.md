@@ -11,13 +11,7 @@ actions:
 
 <img src="/assets/images/mattiacenedese.jpg" width="350">
 
-Mattia Cenedese  
-Research Affiliate  
-[Chair in Nonlinear Dynamics ](https://georgehaller.com)  
-[Institute for Mechanical Systems](https://imes.ethz.ch/)  
-[Department of Mechanical and Process Engineering](https://mavt.ethz.ch/)  
-[ETH Zurich](https://ethz.ch/en.html)  
-
+Mattia Cenedese 
 
 ### Work experience
 
