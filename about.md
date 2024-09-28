@@ -11,8 +11,6 @@ actions:
 
 <img src="/assets/images/mattiacenedese.jpg" width="350">
 
-Mattia Cenedese 
-
 ### Work experience
 
 <p style="text-align:left;">
