@@ -24,6 +24,7 @@ description: "Mattia Cenedese's Personal Website"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://mattiacenedese.github.io"
 github_username: mattiacenedese
+twitter_username: mattiacenedese
 linkedin_username: mattiacenedese
 researchgate_username: Mattia-Cenedese
 googlescholar_username: 5sEbfHEAAAAJ
