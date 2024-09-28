@@ -54,7 +54,7 @@ Featured on the [journal cover page](https://aip.scitation.org/action/showLargeC
 
 ## Submitted manuscripts
 
-1. J.I. Alora, **M. Cenedese**, G. Haller & M. Pavone, ***Discovering dominant dynamics for nonlinear continuum robot control***, [*researchsquare.com*](https://www.researchsquare.com/article/rs-4716136/v1) (2023).
+1. J.I. Alora, **M. Cenedese**, G. Haller & M. Pavone, ***Discovering dominant dynamics for nonlinear continuum robot control***, [*researchsquare.com*](https://www.researchsquare.com/article/rs-4716136/v1) (2024).
 <a style='margin-left:.5em' href="https://www.researchsquare.com/article/rs-4716136/v1">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/StanfordASL/soft-robot-control">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
 
 2. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-assisted non-intrusive model reduction for forced nonlinear finite elements models***, [*arXiv:2311.17865*](http://arxiv.org/abs/2311.17865) (2023).
