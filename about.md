@@ -6,7 +6,7 @@ image:
 actions:
   - label: "Download CV as PDF"
     icon: pdf
-    url: /assets/documents/mattiacenedeseCV.pdf
+    url: /assets/documents/mattiacenedeseCVext.pdf
 ---
 
 <img src="/assets/images/mattiacenedese.jpg" width="350">
