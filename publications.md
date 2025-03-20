@@ -11,7 +11,9 @@ permalink: /publications/
 
 ## Journal articles
 
-1. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-assisted non-intrusive model reduction for forced nonlinear finite elements models***, [*Nonlinear Dynamics*](https://doi.org/10.1007/s11071-024-10507-z) (2024) <span style="font-variant:small-caps;">doi</span>: 10.1007/s11071-024-10507-z. <a style='margin-left:.5em' href="https://link.springer.com/content/pdf/10.1007/s11071-024-10507-z.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/haller-group/SSMLearn/">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
+1. J.I. Alora, **M. Cenedese**, G. Haller & M. Pavone, ***Discovering dominant dynamics for nonlinear continuum robot control***, [*npj Robotics*](https://doi.org/10.1038/s44182-025-00021-8) 3, 5 (2025) <span style="font-variant:small-caps;">doi</span>: 10.1038/s44182-025-00021-8. <a style='margin-left:.5em' href="https://www.nature.com/articles/s44182-025-00021-8.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/jjalora/SSMR-for-control">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
+
+2. **M. Cenedese**, J. Marconi, G. Haller & S. Jain, ***Data-assisted non-intrusive model reduction for forced nonlinear finite elements models***, [*Nonlinear Dynamics*](https://doi.org/10.1007/s11071-024-10507-z) 113, 6465-6489 (2024) <span style="font-variant:small-caps;">doi</span>: 10.1007/s11071-024-10507-z. <a style='margin-left:.5em' href="https://link.springer.com/content/pdf/10.1007/s11071-024-10507-z.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/haller-group/SSMLearn/">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
 
 2. L. Bettini, **M. Cenedese** & G. Haller, ***Model Reduction to spectral submanifolds in non-smooth dynamical systems***, [*International Journal of Non-Linear Mechanics*](https://doi.org/10.1016/j.ijnonlinmec.2024.104753) 163, 104753 (2024) <span style="font-variant:small-caps;">doi</span>: 10.1016/j.ijnonlinmec.2024.104753. <a style='margin-left:.5em' href="https://www.georgehaller.com/reprints/smooth_dyn_systems.pdf">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/haller-group/SSMLearn/tree/main/miscellaneous/nonsmoothSSM">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
 
@@ -53,11 +55,6 @@ Featured on the [journal cover page](https://pubs.aip.org/aip/jap/issue/129/12).
 
 2. E.A. Flores Parra, A. Bergamini, B. Lossouarn, B. Van Damme, **M. Cenedese** & P. Ermanni, ***Bandgap control with local and interconnected LC piezoelectric shunts***, [*Applied Physics Letters*](https://aip.scitation.org/doi/full/10.1063/1.4994779) 111, 111902 (2017) <span style="font-variant:small-caps;">doi</span>: 10.1063/1.4994779. 
 <a style='margin-left:.5em' href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/185265/Bangap.pdf?sequence=1&isAllowed=y#page=3">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> 
-
-## Submitted manuscripts
-
-1. J.I. Alora, **M. Cenedese**, G. Haller & M. Pavone, ***Discovering dominant dynamics for nonlinear continuum robot control***, [*researchsquare.com*](https://www.researchsquare.com/article/rs-4716136/v1) (2024).
-<a style='margin-left:.5em' href="https://www.researchsquare.com/article/rs-4716136/v1">PDF<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-download.svg %}</span></a> <a href="https://github.com/StanfordASL/soft-robot-control">Code and data<span style='margin-left:.3em;margin-right:.5em' class="icon icon--download">{% include icon-github.svg %}
 
 ## Peer-reviewed conference proceedings
 
