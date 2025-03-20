@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper out on npj Robotics "
+title:  "Paper from a collaboration with Stanford out on npj Robotics"
 date:   2025-03-06 12:00:04 +0200
 categories: research
 ---
